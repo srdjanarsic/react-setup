@@ -51,7 +51,7 @@ Install babel, babel loaders and plugins (as dev dependencies).
 
 ```
 npm install --save-dev babel-cli babel-core babel-loader babel-preset-env 
-npm install --save-dev babel-preset-react
+npm install --save-dev eslint-loader babel-preset-react
 npm install --save-dev html-webpack-plugin html-loader style-loader css-loader
 ```
 

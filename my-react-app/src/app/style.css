@@ -1,0 +1,29 @@
+.app {
+    position: relative;
+    overflow: hidden;
+    width: 100vw;
+    height: 100vh;
+    left: 0px;
+    top: 0px;
+}
+
+.background {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    background-color: aquamarine;
+}
+
+.backgroundSvg {
+    position: absolute;
+    left: -100vw;
+    top: 0vh;
+
+    width: 300vw;
+    height: 100vh;
+
+    overflow: auto;
+    margin: auto;
+}
