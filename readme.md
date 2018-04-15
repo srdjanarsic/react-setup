@@ -11,8 +11,8 @@ Instruction for setting up environment for React development.
 * [Webpack](#webpack)
 * [Babel](#babel)
 * [ESLint](#eslint)
-* [ESLint integration in VSC](#eslint_integration_in_vsc)
-* [Webpack configuration](#webpack_configuration)
+* [ESLint integration in VSC](#eslint-integration-in-vsc)
+* [Webpack configuration](#webpack-configuration)
 
 ## Initialization
 
